@@ -1,4 +1,4 @@
-# Ollama Android Client
+# 🤖 Ollama Android Client 🤖
 
 **Ollama Android Client** is an open-source Android application that provides a graphical user interface for interacting with an Ollama AI instance. It acts as a client-only front end, allowing users to run and chat with local AI models through a simple and intuitive mobile interface.
 
