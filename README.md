@@ -35,7 +35,7 @@ This app functions purely as a **client**:
 This project is under active development. Features and UI may change.
 
 ## License
-Specify your license here (e.g., MIT, Apache 2.0).
+GPLv3
 
 ---
 
